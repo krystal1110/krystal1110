@@ -1,8 +1,5 @@
 ### Hi there 👋
 
- 
-**krystal1110/krystal1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭  Hello，我是 JY，目前在上海。   
 - 🌱  iOS 开发工程师
 - 👯  技术栈：`Objc`/ `Swift` /` Flutter` / `小程序` / `Shell`
