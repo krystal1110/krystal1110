@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=krystal1110&
 hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krystal1110&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
