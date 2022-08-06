@@ -16,6 +16,6 @@ Here are some ideas to get you started:
  
 
 
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=krystal1110&hide=contribs,prs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=krystal1110&hide=contribs,prs&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
  
