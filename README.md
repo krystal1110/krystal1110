@@ -7,5 +7,6 @@
 - 👯  技术栈：`Objc`/`Swift`/`Flutter`/`小程序`/`Shell`
 - 🤔  摸鱼周报联合编辑
 - 🔥  Blogs : [JY Blogs](https://krystal1110.github.io/)
+- 👁  联系我 : 可以在github留下联系方式
 
  
